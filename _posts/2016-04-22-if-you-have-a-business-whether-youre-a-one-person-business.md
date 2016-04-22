@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: "If you have a business, whether you're a one person business, an SEM or a corporate - and with few exceptions - you need an online presence. Your online presence is one channel of lead acquisition. Rank your online presence and your lead acquisition funnel becomes visible to your potential audience. Ranking your presence boils down to 2 strategies: paid ads and organic placements. The latter - in the context of ranking in Google - is achieved with a mixture of SEO (search engine optimisation) and SEM (search engine marketing). The balance is (roughly) 10-20% to 80-90% (SEO / SEM). If you're not a search marketing expert like The SEO Man, you should consider hiring a marketing agency like the JG Ad Agency."
-datePublished: '2016-04-22T13:40:14.573Z'
-dateModified: '2016-04-22T13:40:08.093Z'
+datePublished: '2016-04-22T13:40:49.715Z'
+dateModified: '2016-04-22T13:40:23.503Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-22-if-you-have-a-business-whether-youre-a-one-person-business.md
